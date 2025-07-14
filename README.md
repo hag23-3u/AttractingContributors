@@ -1,6 +1,6 @@
 # What is your favorite word?
 
-# List of OS
+# List of word
 - Windows
 - Mac
 - Linux
